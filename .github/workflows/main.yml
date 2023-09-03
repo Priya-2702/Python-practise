@@ -1,0 +1,14 @@
+int a= input("enter a number")
+int b= input("enter a number")
+a//b
+print(a//b)
+a**b
+print(a**b)
+if (a==b)
+{
+print("true")
+}
+else
+{
+print("false")
+}
