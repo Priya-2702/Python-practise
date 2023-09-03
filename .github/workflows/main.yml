@@ -1,5 +1,5 @@
-int a= input("enter a number")
-int b= input("enter a number")
+int a = Input("enter a number")
+int b = Input("enter a number")
 a//b
 print(a//b)
 a**b
