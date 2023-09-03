@@ -1,5 +1,5 @@
-a = Input(enter a number)
-b = Input(enter a number)
+a =9
+b =18
 a//b
 print(a//b)
 a**b
